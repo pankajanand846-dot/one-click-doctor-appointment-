@@ -1,0 +1,108 @@
+[
+    {
+        "doctor": "Dr. Sharma",
+        "specialist": "General Physician",
+        "slot": "10:00 AM",
+        "symptoms": ""
+    },
+    {
+        "doctor": "Dr. Sharma",
+        "specialist": "General Physician",
+        "slot": "10:00 AM",
+        "symptoms": ""
+    },
+    {
+        "doctor": "Dr. Sharma",
+        "specialist": "General Physician",
+        "slot": "10:00 AM",
+        "symptoms": ""
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": ""
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": "I have a Fever and Cough.."
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": "I have a Headache."
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": "I Have a Headache."
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": "I have a Fever."
+    },
+    {
+        "doctor": "Dr. Gupta",
+        "specialist": "General Physician",
+        "slot": "04:00 PM",
+        "symptoms": "I have a Fever."
+    },
+    {
+        "doctor": "Dr. A",
+        "specialist": "General Physician",
+        "slot": "10AM",
+        "symptoms": "I have a fever.\n"
+    },
+    {
+        "doctor": "Dr. A",
+        "specialist": "General Physician",
+        "slot": "10AM",
+        "symptoms": "I have a fever.\n"
+    },
+    {
+        "doctor": "Dr. A",
+        "specialist": "General Physician",
+        "slot": "10AM",
+        "symptoms": "I have a Fever."
+    },
+    {
+        "doctor": "Dr. A",
+        "specialist": "General Physician",
+        "slot": "10AM",
+        "symptoms": "I have a Fever."
+    },
+    {
+        "doctor": "Dr. Das",
+        "specialist": "General Physician",
+        "slot": "2PM",
+        "symptoms": "I have a Fever.\n"
+    },
+    {
+        "doctor": "Dr. Das",
+        "specialist": "General Physician",
+        "slot": "2PM",
+        "symptoms": "I have a fever."
+    },
+    {
+        "doctor": "Dr. Sharma",
+        "specialist": "General Physician",
+        "slot": "11AM",
+        "symptoms": "I have a leg injury in my left leg.",
+        "patient_name": "Prince",
+        "patient_contact": "+91 9843566363"
+    },
+    {
+        "doctor": "Dr. Das",
+        "specialist": "General Physician",
+        "slot": "2PM",
+        "symptoms": "I have a fever.",
+        "patient_name": "John",
+        "patient_contact": "+91 9843566363"
+    }
+]
